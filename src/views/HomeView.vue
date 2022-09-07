@@ -229,35 +229,6 @@
                       <div class="info">
                           <div class="user">
                             <vs-avatar history history-gradient circle>
-                              <img src="@/assets/virteste.png" alt="">
-                            </vs-avatar>
-                              <p class="username">Virginia</p>
-                          </div>
-                          <img src="img/option.PNG" class="options" alt="">
-                      </div>
-                      <a href="https://www.instagram.com/shopmarbbr/?hl=pt">  
-                        <img src="@/assets/virteste.png" class="img-fluid productimage" style="padding-top: 0px !important; height: 290px !important;" alt="Responsive image">
-                      </a>
-                      <div class="post-content">
-                          <div class="reaction-wrapper">
-                            <i class='bx bx-heart icon'></i>
-                            <i class='bx bx-user icon'></i>
-                            <i class='bx bx-user icon'></i>
-                          </div>
-                          <p class="likes" style="text-align: start; padding: 0 !important;">14,012 likes</p>
-                          <p class="post-time" style="text-align: start">2 minutes ago</p>
-                      </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-12">
-            <div class="wrapper">
-              <div class="left-col">
-                  <div class="post">
-                      <div class="info">
-                          <div class="user">
-                            <vs-avatar history history-gradient circle>
                               <img src="@/assets/taise-marb.jpeg" alt="">
                             </vs-avatar>
                               <p class="username">Taise</p>
@@ -270,7 +241,6 @@
                       <div class="post-content">
                           <div class="reaction-wrapper">
                             <i class='bx bx-heart icon'></i>
-                            <i class='bx bx-user icon'></i>
                             <i class='bx bx-user icon'></i>
                           </div>
                           <p class="likes" style="text-align: start; padding: 0 !important;">12,012 likes</p>
@@ -330,7 +300,7 @@
                 <h3 href="#" class="titleProduct">Shop Marb</h3></template>
               <template #img>
                 <a href="https://www.instagram.com/shopmarbbr/?hl=pt">
-                  <img src="@/assets/virteste.png" class="img-fluid productimage" alt="Responsive image">
+                  <img src="@/assets/lift-1.png" class="img-fluid productimage" alt="Responsive image">
                 </a>
               </template>
               <template #text><p class="describleText">Cuide de sua Saúde</p></template>
