@@ -15,7 +15,7 @@
         <div class="onepagebottom">
             <div class="texto">Clique em Continuar Para Acessar o Site Oficial</div>
             <div class="subtitle">MACA PERUANA NEGRA COM BORO ® Acesse o Site Oficial com Frete Grátis e até 45% de Desconto!</div>
-            <a href="" class="botao">Continuar</a>
+            <a href="https://macanegracomboro.net/?mcr=APC20570150" class="botao">Continuar</a>
         </div>
     </div>
 </template>
