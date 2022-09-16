@@ -3,7 +3,7 @@
         <div class="onepage">
             <div class="img1">
                 <div class="">
-                <img src="@/assets/garantia-maca.png" class="" alt="Responsive image">
+                    <img src="@/assets/garantia-1.png" class="" alt="Responsive image">
                 </div>
             </div>
             <div class="img2">
@@ -14,7 +14,7 @@
         </div>
         <div class="onepagebottom">
             <div class="texto">Clique em Continuar Para Acessar o Site Oficial</div>
-            <div class="subtitle">MACA PERUANA NEGRA COM BORO ® Acesse o Site Oficial com Frete Grátis e até 45% de Desconto!</div>
+            <div class="subtitle">Life Detox Caps ® Acesse o Site Oficial com Frete Grátis e até 45% de Desconto!</div>
             <a href="http://mon.net.br/22e9dh" class="botao">Continuar</a>
         </div>
     </div>

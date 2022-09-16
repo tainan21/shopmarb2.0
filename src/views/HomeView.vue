@@ -178,9 +178,10 @@
               </template>
             </vs-card>
           </div>
+        </div>
           <div class="row" style="margin-bottom: 15px;">
 
-          <div class="col-sm-12 col-md-6 col-lg-6">
+          <div class="col-sm-12 col-md-3 col-lg-3">
             <vs-card>
               <template #title><h3 href="#" class="titleProduct">Dream Lipo</h3></template>
               <template #img>
@@ -194,7 +195,35 @@
               </template>
             </vs-card>
           </div>
-          <div class="col-sm-12 col-md-6 col-lg-6">
+          <div class="col-sm-12 col-md-3 col-lg-3">
+            <vs-card >
+              <template #title><h3 class="titleProduct">Dream Colageno</h3></template>
+              <template #img>
+                <a href="http://mon.net.br/22a03s">
+                  <img src="@/assets/dream_colageno_header.png" class="img-fluid productimage" alt="Responsive image">
+                </a>
+              </template>
+              <template #text><p class="describleText">Cuide de sua Saúde</p></template>
+              <template #interactions>
+                <vs-button danger icon><i class='bx bx-heart'></i></vs-button>
+              </template>
+            </vs-card>
+          </div>
+          <div class="col-sm-12 col-md-3 col-lg-3">
+            <vs-card >
+              <template #title><h3 href="#" class="titleProduct">Lift Detox</h3></template>
+              <template #img>
+                <a href="http://mon.net.br/22e9dh">
+                  <img src="@/assets/lift-1.png" class="img-fluid productimage" alt="Responsive image">
+                </a>
+              </template>
+              <template #text><p class="describleText">Cuide de sua Saúde</p></template>
+              <template #interactions>
+                <vs-button danger icon><i class='bx bx-heart'></i></vs-button>
+              </template>
+            </vs-card>
+          </div>
+          <div class="col-sm-12 col-md-3 col-lg-3">
             <vs-card >
               <template #title><h3 href="#" class="titleProduct">Lift Detox</h3></template>
               <template #img>
@@ -210,7 +239,6 @@
           </div>
         </div>
       </div>
-    </div>
     </section>
     <!-- Instagram Seguis -->
     <section class="banner bannerfundao">
