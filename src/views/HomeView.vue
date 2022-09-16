@@ -65,7 +65,7 @@
             <vs-card >
               <template #title><h3 href="#" class="titleProduct">Dream Lipo</h3></template>
               <template #img>
-                <a href="http://mon.net.br/22a03s">
+                <a href="http://mon.net.br/22e7b4">
                   <img src="@/assets/DreamLipo2.jpg" class="img-fluid productimage" alt="Responsive image">
                 </a>
               </template>
@@ -150,7 +150,6 @@
               </template>
             </vs-card>
           </div>
-          
           <div class="col-sm-12 col-md-3 col-lg-3">
             <vs-card >
               <template #title><h3 class="titleProduct">Dream Colageno</h3></template>
@@ -169,7 +168,7 @@
             <vs-card >
               <template #title><h3 href="#" class="titleProduct">Dream Lipo</h3></template>
               <template #img>
-                <a href="http://mon.net.br/22a03s">
+                <a href="http://mon.net.br/22e7b4">
                   <img src="@/assets/DreamLipo2.jpg" class="img-fluid productimage" alt="Responsive image">
                 </a>
               </template>
@@ -241,7 +240,7 @@
                       <div class="post-content">
                           <div class="reaction-wrapper">
                             <i class='bx bx-heart icon'></i>
-                            <i class='bx bx-user icon'></i>
+                            <i class='bx bx-user icon'></i> 
                           </div>
                           <p class="likes" style="text-align: start; padding: 0 !important;">12,012 likes</p>
                           <p class="post-time" style="text-align: start">4 minutes ago</p>
